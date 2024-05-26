@@ -1,0 +1,8 @@
+footer{
+    max-height: 15vh;
+}
+#about-us-footer p {
+  font-size: 12px;
+  padding-top: 20px;
+  width: 100%;
+}
